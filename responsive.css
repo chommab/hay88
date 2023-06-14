@@ -1,0 +1,11 @@
+@media only screen and (max-width: 320px) {
+    .btnBox {
+      width: 90%;
+      max-width: 750px;
+    
+    }
+  
+    .titleImg {
+      top: 80px;
+    }
+}
